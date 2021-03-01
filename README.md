@@ -7,6 +7,7 @@ My solutions for HackerRank problems.
   <summary>Easy</summary>
   <ol>
     <li><a href="https://github.com/inkayat/HackerRank/blob/main/Mathematics/points_on_line.py">Points On a Line</a></li>
+    <li><a href="https://github.com/inkayat/HackerRank/blob/main/Mathematics/sherlock_counting.py">Sherlock and Counting</a></li>
   </ol>
 </details>
 <details open="open">
@@ -23,5 +24,3 @@ My solutions for HackerRank problems.
     <li><a href="https://github.com/inkayat/HackerRank/blob/main/Mathematics/sherlock_and_permutations.py">Sherlock and Permutations</a></li>
   </ol>
 </details>
-
-
