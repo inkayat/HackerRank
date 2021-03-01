@@ -19,7 +19,8 @@ My solutions for HackerRank problems.
   <summary>Hard</summary>
   <ol>
     <li><a href="https://github.com/inkayat/HackerRank/blob/main/Mathematics/easy_sum.py">Easy sum</a></li>
-     <li><a href="https://github.com/inkayat/HackerRank/blob/main/Mathematics/even_odd_query.py">Even Odd Query</a></li>
+    <li><a href="https://github.com/inkayat/HackerRank/blob/main/Mathematics/even_odd_query.py">Even Odd Query</a></li>
+    <li><a href="https://github.com/inkayat/HackerRank/blob/main/Mathematics/sherlock_and_permutations.py">Sherlock and Permutations</a></li>
   </ol>
 </details>
 
