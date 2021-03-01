@@ -6,7 +6,7 @@ My solutions for HackerRank problems.
 <details open="open">
   <summary>Easy</summary>
   <ol>
-    <li><a href="https://www.hackerrank.com/challenges/easy-sum/problem?h_r=internal-search">Easy sum</a></li>
+    <li><a href="https://github.com/inkayat/HackerRank/blob/main/Mathematics/points_on_line.py">Points On a Line</a></li>
   </ol>
 </details>
 <details open="open">
@@ -19,6 +19,7 @@ My solutions for HackerRank problems.
   <summary>Hard</summary>
   <ol>
     <li><a href="https://github.com/inkayat/HackerRank/blob/main/Mathematics/easy_sum.py">Easy sum</a></li>
+     <li><a href="https://github.com/inkayat/HackerRank/blob/main/Mathematics/even_odd_query.py">Even Odd Query</a></li>
   </ol>
 </details>
 
