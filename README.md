@@ -14,6 +14,7 @@ My solutions for HackerRank problems.
   <summary>Medium</summary>
   <ol>
     <li><a href="https://github.com/inkayat/HackerRank/blob/main/Mathematics/diwali_lights.py">Diwali Lights</a></li>
+    <li><a href="https://github.com/inkayat/HackerRank/blob/main/Mathematics/equations.py">Equations</a></li>
   </ol>
 </details>
 <details open="open">
